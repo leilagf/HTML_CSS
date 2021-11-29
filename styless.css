@@ -90,7 +90,7 @@ li{
 .cake-item{
     border: 1px dashed yellow;
     width: 275px;
-    height 275px;
+    height: 275;
     padding: 4px;
 }
 .cake-group{
