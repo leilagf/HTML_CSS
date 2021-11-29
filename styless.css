@@ -77,11 +77,14 @@ li{
 .caption {
     font-size: 15px;
     font-style: italic;
+    text-align: center;
 
 }
 
 .container {
     display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
 }
 
 .cake-item{
@@ -90,7 +93,10 @@ li{
     height 275px;
     padding: 4px;
 }
-
+.cake-group{
+    border: 2px solid green;
+    width 275px;
+}
 
 
 
